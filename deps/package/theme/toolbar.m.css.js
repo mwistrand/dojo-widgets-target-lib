@@ -1,0 +1,1 @@
+module.exports = {" _key":"@dojo/widgets/toolbar","actions":"toolbar-m__actions__5E9jF","collapsed":"toolbar-m__collapsed__2NNct","menuButton":"toolbar-m__menuButton__xHc4S","root":"toolbar-m__root__KnywA","title":"toolbar-m__title__1jpx3"};

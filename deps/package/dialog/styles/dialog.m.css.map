@@ -1,0 +1,1 @@
+{"version":3,"sources":["dialog/styles/dialog.m.css"],"names":[],"mappings":"AAAA;CACC,YAAY;CACZ,gBAAgB;CAChB,OAAO;CACP,QAAQ;CACR,aAAa;CACb","file":"dialog.m.css","sourcesContent":[".underlay {\n\twidth: 100%;\n\tposition: fixed;\n\ttop: 0;\n\tleft: 0;\n\theight: 100%;\n}\n"],"sourceRoot":""}

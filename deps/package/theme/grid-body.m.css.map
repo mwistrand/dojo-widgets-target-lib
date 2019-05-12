@@ -1,0 +1,1 @@
+{"version":3,"sources":["theme/grid-body.m.css"],"names":[],"mappings":"AAAA;;CAEC,oBAAoB;CACpB;;AAED;CACC,iBAAiB;CACjB,iCAAiC;CACjC,oBAAoB;CACpB,eAAe;CACf","file":"grid-body.m.css","sourcesContent":[":root {\n\n\t/* Z-index levels */\n}\n\n.root {\n\tbackground: #fff;\n\tborder-bottom: 1px solid #424242;\n\tborder-spacing: 0px;\n\tcolor: #424242;\n}\n"],"sourceRoot":""}

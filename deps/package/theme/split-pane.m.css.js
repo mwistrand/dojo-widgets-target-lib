@@ -1,0 +1,1 @@
+module.exports = {" _key":"@dojo/widgets/split-pane","root":"split-pane-m__root__1i-YA","column":"split-pane-m__column__tRn-k","divider":"split-pane-m__divider__1qU3x","leading":"split-pane-m__leading__motBn","row":"split-pane-m__row__2hxkz","trailing":"split-pane-m__trailing__2e-BL","collapsed":"split-pane-m__collapsed__3VOXe"};

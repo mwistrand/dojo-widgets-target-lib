@@ -1,0 +1,1 @@
+{"version":3,"sources":["grid/styles/cell.m.css"],"names":[],"mappings":"AAAA;CACC,oBAAoB;KAChB,iBAAiB;SACb,aAAa;CACrB,qBAAqB;CACrB,qBAAqB;CACrB,cAAc;CACd","file":"cell.m.css","sourcesContent":[".rootFixed {\n\t-webkit-box-flex: 1;\n\t    -ms-flex: 1 100%;\n\t        flex: 1 100%;\n\tdisplay: -webkit-box;\n\tdisplay: -ms-flexbox;\n\tdisplay: flex;\n}\n"],"sourceRoot":""}
