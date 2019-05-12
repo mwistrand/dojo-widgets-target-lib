@@ -1,6 +1,6 @@
 # dojo-sandbox
 
-This project was generated with the [Dojo CLI](https://github.com/dojo/cli) & [Dojo CLI create app command](https://github.com/dojo/cli-create-app).
+The default Dojo application created with `@dojo/cli-create-app` that uses a version of `@dojo/widgets` that was built with an in-progress version `@dojo/cli-build-widget`.
 
 ## Build
 
